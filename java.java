@@ -1,11 +1,5 @@
-public class IceCream {
-
-	int price;
-	String brand;
-	String flavour;
-	String type;
-	
-	void printDetails(){
-		System.out.println("price: "+price+"\n"+"brand:"+brand+ "\n"+ "flavour: "+flavour+ "\n"+ "type: "+type);
+class HelloWorld {
+	public static void main(String []args) {
+		System.out.println("hello");
 	}
 }
